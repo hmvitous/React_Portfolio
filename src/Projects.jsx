@@ -3,9 +3,8 @@ import axios from "axios"
 import ProjectCard from "./ProjectCard"
 
 class Projects extends Component {
-
     state = {
-        projects: []
+      projects: []
     }
     
     componentDidMount() {
@@ -32,10 +31,10 @@ class Projects extends Component {
         }
 
         return (
-        <div className="ui main container">
+          <div className="ui main container">
             <h1 id="projects-header" className="ui header">My Projects</h1>
             <div className="ui stackable four column grid">{projectslist}</div>
-        </div>
+          </div>
         )
     }
 }
