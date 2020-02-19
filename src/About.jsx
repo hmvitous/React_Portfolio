@@ -1,14 +1,17 @@
 import React from "react"
+import { UndrawDesignerLife } from "react-undraw-illustrations"
 
 const About = () => {
     return (
         <div className="ui main container">
-            <h1 id="about-header" className="ui header">About Me</h1>
-            <p>
-                This is the section where I would type 
-                an about me paragraph
-            </p>
+            <div class="ui stackable two columns grid">
+                <div class="column">
+                    <UndrawDesignerLife />
+                </div>
+                <div class="column"></div>
+            </div>
         </div>
+        
     )
 }
 
