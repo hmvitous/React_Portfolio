@@ -29,3 +29,7 @@ body {
 #canvas {
     margin-top: -3em;
 }
+
+.ui.stackable.four.column.grid {
+    height: 500px;
+}
