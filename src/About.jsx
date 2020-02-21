@@ -18,6 +18,12 @@ const About = () => {
                 </div>
             </div>
         </div>
+        <div>
+            <a href="https://google.com" class="ui medium image">
+                <img src="">
+            </a>
+        </div>
+       
         
     )
 }
