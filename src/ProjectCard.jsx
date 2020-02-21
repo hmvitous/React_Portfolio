@@ -9,8 +9,8 @@ const ProjectCard = ({ project }) => {
                 </div>
                 <div className="content">
                     <h3 className="ui header">{project.name}</h3>
-
                     <div className="description">{project.description}</div>
+                    <div className="link"><a href={project.link}>The GitHub repo</a></div>
                 </div>
             </div>
         </>

@@ -3,18 +3,21 @@
     "id": 1,
     "name": "Fizz Buzz",
     "image": "dist/images/soda_bottle.jpg",
-    "description": "The classic FizzBuzz challenge done in Ruby"
+    "description": "The classic FizzBuzz challenge done in Ruby",
+    "link": "https://github.com/hmvitous/fizz_buzz"
   },
   {
     "id": 2,
     "name": "BMI Calculator",
     "image": "dist/images/calculator.jpg",
-    "description": "A calculator I built that tells you your BMI just by typing in your height and weight"
+    "description": "A calculator I built that tells you your BMI just by typing in your height and weight",
+    "link":"https://github.com/hmvitous/bmi_calculator"
   },
   {
     "id": 3,
     "name": "ATM Challenge",
     "image": "dist/images/atm.jpg",
-    "description": "A virtual ATM built in Ruby"
+    "description": "A virtual ATM built in Ruby",
+    "link": "https://github.com/hmvitous/atm_challenge"
   }
 ]
