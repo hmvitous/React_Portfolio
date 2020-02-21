@@ -2,19 +2,19 @@
   {
     "id": 1,
     "name": "Fizz Buzz",
-    "image": "http://www.4president.us/websites/2000/2000w/gore2000home.gif",
+    "image": "dist/images/soda_bottle.jpg",
     "description": "The classic FizzBuzz challenge done in Ruby"
   },
   {
     "id": 2,
     "name": "BMI Calculator",
-    "image": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+    "image": "dist/images/calculator.jpg",
     "description": "A calculator I built that tells you your BMI just by typing in your height and weight"
   },
   {
     "id": 3,
     "name": "ATM Challenge",
-    "image": "https://images.unsplash.com/photo-1534237886190-ced735ca4b73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+    "image": "dist/images/atm.jpg",
     "description": "A virtual ATM built in Ruby"
   }
 ]

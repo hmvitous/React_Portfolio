@@ -20,7 +20,7 @@ describe('User can navigate the app', () => {
         cy.get('#projects-header').should('not.exist')
       })
   
-      it('does not display Hello world', () => {
+      it('does not display Hunter Vitous', () => {
         cy.get('#hello').should('not.exist')
       })
     })
@@ -42,7 +42,7 @@ describe('User can navigate the app', () => {
         cy.get('#about-header').should('not.exist')
       })
   
-      it('does not display Hello world', () => {
+      it('does not display Hunter Vitous', () => {
         cy.get('#hello').should('not.exist');
       })
     })
@@ -53,8 +53,8 @@ describe('User can navigate the app', () => {
         cy.get('#header').click()
       })
   
-      it('displays Hello World', () => {
-        cy.get('#hello').should('contain', 'Hello')
+      it('displays Hunter Vitous', () => {
+        cy.get('#hello').should('contain', 'Hunter Vitous')
       })
   
       it('displays correct url', () => {
