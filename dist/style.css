@@ -11,44 +11,6 @@ footer {
     text-align: center;
 }
 
-#hello {
-    position: fixed;
-    padding-top: 200px;
-    padding-left: 40%;
-}
-
 .main.container {
     margin-top: 4em;
-    margin-bottom: -1em;
 }
-
-body {
-    margin-top: 1em;
-}
-
-#canvas {
-    margin-top: -3em;
-}
-
-.ui.stackable.four.column.grid {
-    height: 800px;
-}
-
-#project-1 {
-    height: 200px;
-    width: 200px;
-}
-
-#project-2 {
-    height: 200px;
-    width: 200px;
-    margin-left: 170px;
-    margin-right: 170px;
-}
-
-#project-3 {
-    height: 200px;
-    width: 200px;
-}
-
-#
