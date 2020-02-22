@@ -16,7 +16,7 @@ const About = () => {
                         On my free time I enjoy playing video games. I hope you enjoy this website!
                     </p>
                 </div>
-                <a className="linkedinlink" target="_blank" href="https://www.linkedin.com/in/hunter-vitous-07839a10b/">
+                <a className="linkedinlink" id="linkedin-image" target="_blank" href="https://www.linkedin.com/in/hunter-vitous-07839a10b/">
                     <img className="linkedin" src="dist/images/linkedin_link.png"></img>
                 </a>
 
