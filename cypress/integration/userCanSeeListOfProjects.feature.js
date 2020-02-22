@@ -24,7 +24,7 @@ describe('User can see list of projects', () => {
         cy.get('#project-3').within(() => {
             cy.get(('.image')).should('exist')
             cy.get('.ui.header').should('contain', 'ATM Challenge')
-            cy.get('description').should('contain', "A virtual ATM built in Ruby")
+            cy.get('.description').should('contain', 'A virtual ATM built in Ruby')
         })
     })
 })

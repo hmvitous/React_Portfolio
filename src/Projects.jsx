@@ -38,7 +38,7 @@ class Projects extends Component {
                         <UndrawDashboard primaryColor='#283a' height='200px' />
                     </div>
                     <div className="column">
-                        <h1 className="ui header">My Projects</h1>
+                        <h1 className="ui header" id="projects-header">My Projects</h1>
                         <p>
                             These are my projects. I hope you can see them.
                         </p>

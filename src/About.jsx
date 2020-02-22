@@ -9,13 +9,17 @@ const About = () => {
                     <UndrawDesignerLife primaryColor='#12283a' height='200px' />
                 </div>
                 <div className="column">
-                    <h1 className="ui header">About Me</h1>
+                    <h1 className="ui header" id="about-header">About Me</h1>
                     <p>
                         My name is Hunter Vitous and I am attending Craft Academy's coding bootcamp in hopes to become a developer.<br />
                         I have taken industrial engineering classes as well as SolidWorks/3D printing courses.<br />
                         On my free time I enjoy playing video games. I hope you enjoy this website!
                     </p>
                 </div>
+                <a className="linkedinlink" target="_blank" href="https://www.linkedin.com/in/hunter-vitous-07839a10b/">
+                    <img className="linkedin" src="dist/images/linkedin_link.png"></img>
+                </a>
+
             </div>
         </div>        
     )
