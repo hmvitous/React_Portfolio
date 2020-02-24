@@ -13,7 +13,8 @@ const About = () => {
                     <p>
                         My name is Hunter Vitous and I am attending Craft Academy's coding bootcamp in hopes to become a developer.<br />
                         I have taken industrial engineering classes as well as SolidWorks/3D printing courses.<br />
-                        On my free time I enjoy playing video games. I hope you enjoy this website!
+                        On my free time I enjoy playing video games.<br />
+                        Please click the Linkedin icon to visit my profile on Linkedin.
                     </p>
                 </div>
                 <a className="linkedinlink" id="linkedin-image" target="_blank" href="https://www.linkedin.com/in/hunter-vitous-07839a10b/">
